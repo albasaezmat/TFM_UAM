@@ -1,0 +1,20 @@
+CLNSIG_19,CLNSIG_21,Change_from,Count
+Benign 2019,Conflictive interpretation 2021,B,1
+Benign 2019,Likely benign 2021,B,2
+Conflictive interpretation 2019,Benign 2021,C,1
+Conflictive interpretation 2019,Likely benign 2021,C,5
+Conflictive interpretation 2019,Likely pathogenic 2021,C,4
+Conflictive interpretation 2019,Pathogenic 2021,C,3
+Conflictive interpretation 2019,VUS 2021,C,1
+Likely benign 2019,Benign 2021,LB,10
+Likely benign 2019,Conflictive interpretation 2021,LB,4
+Likely pathogenic 2019,Conflictive interpretation 2021,LP,11
+Likely pathogenic 2019,Pathogenic 2021,LP,3
+Pathogenic 2019,Benign 2021,P,2
+Pathogenic 2019,Conflictive interpretation 2021,P,1
+Pathogenic 2019,Likely pathogenic 2021,P,10
+Pathogenic 2019,VUS 2021,P,2
+VUS 2019,Conflictive interpretation 2021,VUS,11
+VUS 2019,Likely benign 2021,VUS,2
+VUS 2019,Likely pathogenic 2021,VUS,2
+VUS 2019,Pathogenic 2021,VUS,2
